@@ -39,5 +39,3 @@ calculadora.exe
 2. Para cada matriz, informe linhas, colunas e os elementos.
 3. Escolha a operação no menu. O resultado (ou o motivo do erro) é exibido.
 4. Repita quantas operações quiser ou digite `0` para sair.
-
-
